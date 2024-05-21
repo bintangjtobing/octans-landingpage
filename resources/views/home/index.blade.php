@@ -131,7 +131,7 @@
                             <div
                                 class="pricing-box d-flex flex-column justify-content-between align-items-center h-100 rounded-5 pricing-simple px-5 py-0 border border-width-2 border-color text-center bg-white overflow-visible">
                                 <h3 class="pricing-title ls-0 bg-white color">Mikro, Kecil, dan Menengah</h3>
-                                <div class="pricing-price fw-medium"><span class="price-unit">IDR</span>55rb<span
+                                <div class="pricing-price fw-medium"><span class="price-unit">IDR</span>xxx<span
                                         class="price-tenure">/bulan</span></div>
                                 <div class="pricing-features">
                                     <h5 class="mb-2 fw-semibold">Plan Includes:</h5>
@@ -142,7 +142,7 @@
                                         <li>24/7 Support with Chats</li>
                                     </ul>
                                 </div>
-                                <a href="https://uat.octansidn.com/register" target="_blank"
+                                <a href="https://api.whatsapp.com/send?phone=6281915881569&text=Hi%20PatunganYuk%2C%20saya%20mau%20beli%20aplikasi%20keuangan%20octansidn%20dong." target="_blank"
                                     class="btn btn-dark btn-action bg-color btn-lg px-4">Berlangganan sekarang</a>
                             </div>
                         </div>
